@@ -1,0 +1,12 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <drawable-list id="white_background">
+        <shape type="rectangle" color="Gfx.COLOR_WHITE" x="0" y="0" width="fill" height="fill" />
+    </drawable-list>
+    <drawable-list id="locked_icon">
+        <bitmap id="id_lock" x="right" y="top" filename="../drawables/locked_icon.png" />
+    </drawable-list>
+    <drawable-list id="unlocked_icon">
+        <bitmap id="id_unlock" x="right" y="top" filename="../drawables/unlocked_icon.png" />
+    </drawable-list>
+</drawables>
