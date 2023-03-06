@@ -1,0 +1,7 @@
+<strings>
+    <string id="AppName">Pool Lock</string>
+
+    <string id="status_label">Pool Lock</string>
+    <string id="status_value_locked">ENABLED</string>
+    <string id="status_value_unlocked">Disabled</string>
+</strings>
