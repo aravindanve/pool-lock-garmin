@@ -24,11 +24,7 @@ class PoolLockModel
     }
 
     function isLocked() {
-        if (mSession != null) {
-            return mSession.isRecording();
-        } else {
-            return false;
-        }
+        return mSession != null;
     }
 
 }
